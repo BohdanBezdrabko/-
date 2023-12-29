@@ -1,0 +1,42 @@
+D:\shatap\Projects\C#\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+D:\shatap\Projects\C#\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+D:\shatap\Projects\C#\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+D:\shatap\Projects\C#\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+D:\shatap\Projects\C#\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+D:\shatap\Projects\C#\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
+D:\TicTacToe (2)\bin\Debug\net8.0\TicTacToe.exe
+D:\TicTacToe (2)\bin\Debug\net8.0\TicTacToe.deps.json
+D:\TicTacToe (2)\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+D:\TicTacToe (2)\bin\Debug\net8.0\TicTacToe.dll
+D:\TicTacToe (2)\bin\Debug\net8.0\TicTacToe.pdb
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.dll
+D:\TicTacToe (2)\obj\Debug\net8.0\refint\TicTacToe.dll
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.pdb
+D:\TicTacToe (2)\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+D:\TicTacToe (2)\obj\Debug\net8.0\ref\TicTacToe.dll
+D:\Код курсова\bin\Debug\net8.0\TicTacToe.exe
+D:\Код курсова\bin\Debug\net8.0\TicTacToe.deps.json
+D:\Код курсова\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+D:\Код курсова\bin\Debug\net8.0\TicTacToe.dll
+D:\Код курсова\bin\Debug\net8.0\TicTacToe.pdb
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.dll
+D:\Код курсова\obj\Debug\net8.0\refint\TicTacToe.dll
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.pdb
+D:\Код курсова\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+D:\Код курсова\obj\Debug\net8.0\ref\TicTacToe.dll
